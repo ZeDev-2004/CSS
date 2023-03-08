@@ -1,0 +1,36 @@
+<div></div>
+<style>
+
+  .div{ 
+    margin-top: -20; 
+    margin-left:-50; 
+    width: 2000px;
+    height: 62px; 
+    background-color: #F7EC7D;
+}
+.div2 
+{ 
+    margin-left: -50;
+    width: 2000px; 
+    height: 50px; 
+    background-color: #E38F66;
+}
+.div3 {
+    margin-left: -50 ; 
+    width: 2000px; 
+    height: 100px; 
+    background-color: #AA445F; 
+}
+
+.div4{
+    margin-left: -50; 
+    width: 2000px;
+    height: 200px;
+    background-color: #62306D;
+}
+</style>
+
+  <div class = "div"></div>
+  <div class = "div2"></div>
+  <div class = "div3"></div>
+  <div class = "div4"></div>
